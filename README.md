@@ -1,2 +1,1 @@
-# hello-world
- says hello to world
+My name is bruce. Hello world 
